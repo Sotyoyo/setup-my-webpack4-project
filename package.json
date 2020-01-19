@@ -1,0 +1,19 @@
+{
+  "name": "setup-my-webpack4-project",
+  "version": "1.0.0",
+  "description": "Learn how to setup a webpack project from zero.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'None test scripts yet."
+  },
+  "keywords": [
+    "webpack4",
+    "webpack-dev-server"
+  ],
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "author": "Sheldon",
+  "license": "MIT"
+}
